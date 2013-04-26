@@ -1,3 +1,9 @@
+/* Released under GPL. Original sketch by xclusive. As is without warranty. Work in progress with much left to do.
+/*
+/*version 0.01
+*/
+
+
 String cwrd = "";
 char cchar;
 
