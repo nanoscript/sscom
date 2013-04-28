@@ -7,9 +7,9 @@ Can be easily modified to drive simple Arduino functions from (a) serial monitor
 
 
 ##Changelog
-Version .01: inital commit 4/26/13
-Version .02: added support for submenus 4/27/13
-Version .03: added support for "global" commands 4/27/13
+4/26/13 Version .01: inital commit.
+4/27/13 Version .02: added support for submenus.
+4/27/13 Version .03: added support for "global" commands.
 
 
 ##Todo
