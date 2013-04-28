@@ -1,4 +1,6 @@
 /* Released under GPL. As is without warranty. Work in progress with much left to do.
+/* 
+/* Simple Serial COMmunication interface
 /* Currently only tested for mega2560. Also only supports Arduino IDE's Serial Monitor, 
 /* or other monitors that allow sending of more than one byte at a time.
 /* 
