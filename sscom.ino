@@ -4,7 +4,7 @@
 /* Currently only tested for mega2560. Also only supports Arduino IDE's Serial Monitor, 
 /* or other monitors that allow sending of more than one byte at a time.
 /* 
-/* Original sketch by dave@xtechgeek.com 4/2013
+/* Original sketch by xclusive585@gmail.com 4/2013
 /*
 /* version 0.03 */
 
